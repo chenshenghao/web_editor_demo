@@ -108,5 +108,6 @@
   "jack_desc": "Donec pellentesque lacus at magna porttitor pulvinar. Morbi risus lorem; sollicitudin sit",
   "test": "test",
   "newly_added_section": "I'm an update",
-  "added_from_git": "This new string is added git"
+  "added_from_git": "This new string is added git",
+  "add_more_strings": "This is another new string"
 }
