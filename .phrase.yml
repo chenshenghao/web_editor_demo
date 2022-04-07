@@ -3,7 +3,7 @@ phrase:
   project_id: cdf7eaf8a2990628a2bac4f6e1d76094
   push:
     sources:
-    - file: ./phrase-demo-app-main/src/locales/en.json
+    - file: ./locales/en.json
       params:
         file_format: simple_json
         update_translations: true
