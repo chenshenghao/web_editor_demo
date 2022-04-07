@@ -107,5 +107,6 @@
   "david_austin_desc": "Donec pellentesque lacus at magna porttitor pulvinar. Morbi risus lorem; sollicitudin sit",
   "jack_desc": "Donec pellentesque lacus at magna porttitor pulvinar. Morbi risus lorem; sollicitudin sit",
   "test": "test",
-  "newly_added_section": "I'm an update"
+  "newly_added_section": "I'm an update",
+  "added_from_git": "This new string is added git"
 }
