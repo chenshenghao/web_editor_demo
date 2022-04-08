@@ -110,5 +110,7 @@
   "newly_added_section": "I'm an update",
   "added_from_git": "This new string is added git",
   "add_more_strings": "This is another new string",
-  "add_3rd_string": "Now it should be correct!"
+  "add_3rd_string": "Now it should be correct!",
+  "add_from_local": "a string from my local env!",
+  "add_4th_string": "Now it is the 4th new string!"
 }
