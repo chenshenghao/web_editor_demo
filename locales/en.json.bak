@@ -112,5 +112,6 @@
   "add_more_strings": "This is another new string",
   "add_3rd_string": "Now it should be correct!",
   "add_from_local": "a string from my local env!",
-  "add_4th_string": "Now it is the 4th new string!"
+  "add_4th_string": "Now it is the 4th new string!",
+  "add_local_upate": "This string is updated from local"
 }
