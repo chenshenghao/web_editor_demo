@@ -1,15 +1,15 @@
 phrase:
-  access_token: 7094ccbfb01e6d93c4fafd6d1fb8023ee90b3ad8aae03e9110cff86cbe6ce067
-  project_id: cdf7eaf8a2990628a2bac4f6e1d76094
+  access_token: 36ee393b19a60467f2cdc8f604f1fd4e5410139c2fdc4fa03d4dff11872931f3
+  project_id: 23129d360e3718a82bcd5e76ebc34ca4
   push:
     sources:
-    - file: ./locales/en.json
+    - file: ./phrase-demo-app-main/src/locales/en.json
       params:
         file_format: simple_json
         update_translations: true
-        locale_id: bc0aaca0a532eb19ca55fdf1d4045c2e
+        locale_id: 401e9a2db9694c05e0ef479e8648fa8a
   pull:
     targets:
-    - file: ./locales/<locale_name>.json
+    - file: ./phrase-demo-app-main/src/locales/<locale_name>.json
       params:
         file_format: simple_json
