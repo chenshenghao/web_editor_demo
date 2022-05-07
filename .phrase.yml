@@ -1,13 +1,13 @@
 phrase:
   access_token: 36ee393b19a60467f2cdc8f604f1fd4e5410139c2fdc4fa03d4dff11872931f3
-  project_id: 23129d360e3718a82bcd5e76ebc34ca4
+  project_id: 49178759480e3d34c5b30b2707043c65
   push:
     sources:
     - file: ./phrase-demo-app-main/src/locales/en.json
       params:
         file_format: simple_json
         update_translations: true
-        locale_id: 401e9a2db9694c05e0ef479e8648fa8a
+        locale_id: f407c2bff1f6d1c9e77e9b127270b546
   pull:
     targets:
     - file: ./phrase-demo-app-main/src/locales/<locale_name>.json
