@@ -3,13 +3,13 @@ phrase:
   project_id: 49178759480e3d34c5b30b2707043c65
   push:
     sources:
-    - file: ./phrase-demo-app-main/src/locales/en.json
+    - file: ./locales/en.json
       params:
         file_format: simple_json
         update_translations: true
         locale_id: f407c2bff1f6d1c9e77e9b127270b546
   pull:
     targets:
-    - file: ./phrase-demo-app-main/src/locales/<locale_name>.json
+    - file: ./locales/<locale_name>.json
       params:
         file_format: simple_json
